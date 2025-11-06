@@ -1,4 +1,4 @@
-import PerfilPage from "./pages/PerfilPage";
+import PerfilPage from "./code pages/PerfilPage";
 
 export default function App() {
   return (

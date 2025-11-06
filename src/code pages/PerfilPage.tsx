@@ -15,7 +15,7 @@ export default function PerfilPage() {
   };
 
   const changeAge = (): void => {
-    setAge(21);
+    setAge(18);
   };
 
   const resetData = (): void => {
