@@ -3,9 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jean-pierre-valarezo.github.io/icc-ppw-u2-Practica01React",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -26,6 +29,7 @@
     "globals": "^16.4.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.45.0",
-    "vite": "^7.1.7"
+    "vite": "^7.1.7",
+    "gh-pages": "^5.0.0"
   }
 }
