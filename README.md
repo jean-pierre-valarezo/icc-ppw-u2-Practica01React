@@ -92,15 +92,15 @@ Seguir las instrucciones del siguiente GIST: [GIST](https://gist.github.com/Pabl
 
 1. Captura de `main.tsx`
 
-<img src="assets/main.jpeg" width="2000" alt="main.tsx">
+<img src="assets/main.png" width="2000" alt="main.tsx">
 
 2. Captura de `app.tsx`
 
-<img src="assets/app.jpeg" width="2000" alt="app.tsx">
+<img src="assets/app.png" width="2000" alt="app.tsx">
 
 3. Captura de `perfilPage.tsx`
 
-<img src="assets/perfilpage2.jpeg" width="2000" alt="perfilpage.tsx">
+<img src="assets/perfilpage2.png" width="2000" alt="perfilpage.tsx">
 
 4. Captura de la pagina desplegada
 
