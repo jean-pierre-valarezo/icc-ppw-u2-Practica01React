@@ -92,19 +92,19 @@ Seguir las instrucciones del siguiente GIST: [GIST](https://gist.github.com/Pabl
 
 1. Captura de `main.tsx`
 
-<img src="assets/main.png" width="2000" alt="main.tsx">
+<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/main.png?raw=true" width="2000" alt="main.tsx"> width="2000" alt="main.tsx">
 
 2. Captura de `app.tsx`
 
-<img src="assets/app.png" width="2000" alt="app.tsx">
+<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/app.png?raw=true" width="2000" alt="app.tsx"> width="2000" alt="app.tsx">
 
 3. Captura de `perfilPage.tsx`
 
-<img src="assets/perfilpage2.png" width="2000" alt="perfilpage.tsx">
+<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/perfilpage2.png?raw=true" width="2000" alt="perfilPage.tsx"> width="2000" alt="perfilpage.tsx">
 
 4. Captura de la pagina desplegada
 
-<img src="assets/paginacompleta.jpeg" width="2000" alt="perfilpage.tsx">
+<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/paginacompleta.png?raw=true" width="2000" alt="página completa"> width="2000" alt="perfilpage.tsx">
 
 5. Enlace a la pagina de githubPages
 6. Enlace la repositorio de github del proyecto.
