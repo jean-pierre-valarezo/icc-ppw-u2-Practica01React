@@ -20,6 +20,7 @@
 📧 jvalarezov@est.ups.edu.ec  
 💻 GitHub: [jean-pierre-valarezo](https://github.com/jean-pierre-valarezo)
 
+Pequeño cambio para re-ejecutar workflow de GitHub Actions.
 
 ## Fudamentos de React
 
