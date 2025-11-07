@@ -100,8 +100,8 @@ Seguir las instrucciones del siguiente GIST: [GIST](https://gist.github.com/Pabl
 
 3. Captura de `perfilPage.tsx`
 
-<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/perfilpage1.png?raw=true" width="2000" alt="perfilPage.tsx"> 
-<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/perfilpage2.png?raw=true" width="2000" alt="perfilPage.tsx"> 
+<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/pefilpage1.png?raw=true" width="2000" alt="perfilPage.tsx"> 
+<img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/periflpage2.png?raw=true" width="2000" alt="perfilPage.tsx"> 
 4. Captura de la pagina desplegada
 
 <img src="https://github.com/jean-pierre-valarezo/icc-ppw-u2-Practica01React/blob/main/src/assets/paginacompleta.png?raw=true" width="2000" alt="página completa"> 
